@@ -1,0 +1,2 @@
+# uyinbilim
+bot uchun
